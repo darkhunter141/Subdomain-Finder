@@ -1,4 +1,4 @@
-<b><h1> Tool⚡</h1><b>
+<b><h1>Subdomain Finder Tool⚡</h1><b>
 
 <h3><b>Installation : </b></h3>
 <br>
