@@ -13,12 +13,12 @@
  cd Subdomain-Finder
 ```
 ```
- python2 
+ python2 subdomain.py
 ```
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pkg install python2 && git clone https://github.com/darkhunter141/Subdomain-Finder && cd Subdomain-Finder
+pkg install python2 && git clone https://github.com/darkhunter141/Subdomain-Finder && cd Subdomain-Finder && python2 subdomain.py
 ```
 <br>
 <h3><b>📸Screenshot</b></h3>
